@@ -3,7 +3,14 @@
 public class Main{
     public static void main(String[] args){
         System.out.print("David Eduardo Munar Ardila");
-                System.out.print(" LENGUAJE c++");
+        System.out.print(" LENGUAJE c++");
+
+
+
+        System.out.print("Mas perdido que 10")
+        System.out.print("Cuantos comando son!!!!!!!")
+        System.out.print("Cuantos comando son!!!!!!!")
+
 
     }
 }
