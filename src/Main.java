@@ -9,6 +9,7 @@ public class Main{
 
         System.out.print("Mas perdido que 10")
         System.out.print("Cuantos comando son!!!!!!!")
+        System.out.print("Cuantos comando son!!!!!!!")
 
 
     }
